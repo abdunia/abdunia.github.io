@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+.center{
+    text-align: center;
+
+}
+#header{
+    color: aqua;
+    font-family: monospace;
+    border-style: groove;
+    
+}
